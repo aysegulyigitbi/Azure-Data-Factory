@@ -1,6 +1,6 @@
 # Merge Multiple Datasets with Azure Data Factory
 
-Create data-driven workflows to organize data movement and convert data at scale with Azure Data Factory (ADF), a cloud-based ETL data integration solution.
+Create data-driven workflows to organize data movement and convert data at scale with Azure Data Factory (ADF) a cloud-based ETL data integration solution.
 
 In conclusion, Azure Data Factory facilitates the transfer of data across different computational resources and data repositories. You can construct and schedule data-driven workflows and access data from various data storage. Additionally, you can use compute services like Azure HDInsight, Azure Databricks, Azure Synapse Analytics, and Azure SQL Datasets to build intricate ETL processes that graphically change data.
 
